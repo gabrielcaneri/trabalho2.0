@@ -1,0 +1,26 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table, tr, td {
+    border: 2px solid black;
+}
+td {
+	height: 50px;
+	width: 25%;
+	text-align: center;
+}
+a {
+	background-color: #E6E8FA;
+	border: 1px solid #000000;
+	border-radius: 2px;
+	padding: 1px 8px;
+}
+a:link {
+	text-decoration: none;
+}
+body{
+	width: 100%;
+	text-align: center;
+}

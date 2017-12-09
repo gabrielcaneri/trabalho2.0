@@ -1,0 +1,15 @@
+h1{
+	text-align: center;
+}
+form{
+	margin-left: 20%;
+}
+a{
+	background-color: #E6E8FA;
+	border: 1px solid #000000;
+	border-radius: 2px;
+	padding: 1px 8px;
+}
+a:link{
+	text-decoration: none;
+}
